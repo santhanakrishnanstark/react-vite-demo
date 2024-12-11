@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde aliquam non vitae, ex suscipit iusto, molestias, dicta cum dignissimos tempora incidunt ad enim! Ipsam omnis eveniet, debitis doloribus ullam nobis.
       </p>
     </>
   )
