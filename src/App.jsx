@@ -9,6 +9,11 @@ function App() {
   return (
     <>
       <div>
+        <p>
+        <img 
+          width={300}
+          src="https://images.unsplash.com/photo-1475776408506-9a5371e7a068?q=80&w=1958&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="nature" />
+        </p>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
