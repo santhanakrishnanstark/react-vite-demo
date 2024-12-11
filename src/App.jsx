@@ -26,6 +26,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <p>My Latest changes which I needed the most is here and I don't need nature image in this page</p>
       </div>
       <p className="read-the-docs">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde aliquam non vitae, ex suscipit iusto, molestias, dicta cum dignissimos tempora incidunt ad enim! Ipsam omnis eveniet, debitis doloribus ullam nobis.
